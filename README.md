@@ -1,5 +1,6 @@
 # centos7
-Note: Run these files as a root user
+##Note: 
+Run these files as a **root** user
 clone this repository and make files executable
 command: "chmod +x filename"
 command to run "./master.sh"
